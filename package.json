@@ -1,0 +1,23 @@
+{
+  "name": "lmc-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.1",
+    "@material/top-app-bar": "^8.0.0",
+    "css-loader": "^4.3.0",
+    "file-loader": "^6.1.0",
+    "material-components-web": "^8.0.0",
+    "next": "9.5.3",
+    "php": "^1.0.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "style-loader": "^1.2.1",
+    "url-loader": "^4.1.0"
+  }
+}
